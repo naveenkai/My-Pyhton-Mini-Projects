@@ -1,5 +1,5 @@
 import getpass
-database = {"aman.kharwal": "123456", "kharwal.aman": "654321"}
+database = {"Naveen k": "123456", "Gagan H": "654321"}
 username = input("Enter Your Username : ")
 password = getpass.getpass("Enter Your Password : ")
 for i in database.keys():
